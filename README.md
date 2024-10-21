@@ -28,7 +28,9 @@ Sono un appassionato sviluppatore junior con un background unico nel settore del
    - [Dai un'occhiata qui](https://github.com/amitpandher03/Flappy-bird)
 
 2. **Presto.it**
-   - [Breve descrizione del progetto Presto.it - per favore aggiungi dettagli su cosa fa questo progetto]
+   - Una piattaforma di e-commerce simile a Vinted, focalizzata sulla compravendita di articoli di seconda mano
+   - Funzionalità chiave: registrazione utenti, caricamento prodotti, ricerca, sistema di messaggistica
+   - Tecnologie utilizzate: [Aggiungi qui le tecnologie principali, ad esempio: React, Node.js, MongoDB]
    - [Link al repository](https://github.com/amitpandher03/presto.it)
 
 ### 🌐 Connettiti con Me
