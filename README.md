@@ -29,8 +29,8 @@ Sono un appassionato sviluppatore junior con un background unico nel settore del
 
 2. **Presto.it**
    - Una piattaforma di e-commerce simile a Vinted, focalizzata sulla compravendita di articoli di seconda mano
+   - Sviluppato utilizzando il TALL stack (Bootstrap CSS, js, Laravel, Livewire)
    - Funzionalità chiave: registrazione utenti, caricamento prodotti, ricerca, sistema di messaggistica
-   - Tecnologie utilizzate: [Aggiungi qui le tecnologie principali, ad esempio: React, Node.js, MongoDB]
    - [Link al repository](https://github.com/amitpandher03/presto.it)
 
 ### 🌐 Connettiti con Me
