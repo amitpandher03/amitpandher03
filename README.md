@@ -1,129 +1,89 @@
-# Ciao, sono Amit Pandher 👋
+# Ciao, sono Amit Pandher ✨
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Specialist;UI%2FUX+Designer;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,22,27,30&height=200&section=header&text=Amit%20Pandher&fontSize=80&fontColor=ffffff&animation=fadeIn" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Specialist;UI%2FUX+Designer;Clean+Code+Enthusiast" alt="Typing SVG" />
+  
+  <p>
+    <a href="https://linkedin.com/in/amitpandher"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://github.com/amitpandher03"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  </p>
 </div>
 
 ## 🎯 Chi Sono
 
-Sviluppatore Full Stack specializzato in architetture software sicure e scalabili. La mia passione per la cybersecurity e il design mi permette di creare soluzioni web robuste che bilanciano perfettamente sicurezza, funzionalità e user experience. Costantemente aggiornato sulle ultime tecnologie e best practices del settore.
+> Sviluppatore Full Stack specializzato in architetture software sicure e scalabili. La mia passione per la cybersecurity e il design mi permette di creare soluzioni web robuste che bilanciano perfettamente sicurezza, funzionalità e user experience. Costantemente aggiornato sulle ultime tecnologie e best practices del settore.
 
 ### 🚀 Highlights
 
-- 🔒 Esperto in DevSecOps e Implementazione OWASP Security Standards
-- 🎨 Specialista UI/UX con focus su User-Centered Design
-- 🌐 Full Stack Developer con esperienza in architetture moderne
-- 📊 Data-Driven Development Approach
-- 🛠️ Clean Code & Design Patterns Enthusiast
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/security.gif" width="100px" /><br />
+        <sub><b>DevSecOps Expert</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.gif" width="100px" /><br />
+        <sub><b>Full Stack Dev</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.gif" width="100px" /><br />
+        <sub><b>Clean Code</b></sub>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.gif" width="100px" /><br />
+        <sub><b>UI/UX Design</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 💻 Tech Stack
 
 <div align="center">
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Backend & Database
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### DevOps & Security
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Security](https://img.shields.io/badge/-Security-FF0000?style=for-the-badge&logo=shield&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-#### Design
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,php,laravel,mysql,git,docker,figma&theme=dark&perline=6" />
 </div>
 
 ### 🌟 Progetti in Evidenza
 
-<div class="projects-grid">
-
-1. **🎮 Pokemon in React**
-   - SPA React con integrazione API RESTful
-   - Features:
-     - State management ottimizzato
-     - UI/UX responsive e moderna
-     - Implementazione best practices React
-   - [Repository](https://github.com/amitpandher03/pokemon-in-react)
-
-2. **🛍️ Presto.it - E-commerce Platform**
-   - Full Stack E-commerce con focus su sicurezza
-   - Tech Stack:
-     - Frontend: Bootstrap, JavaScript, Livewire
-     - Backend: Laravel, MySQL
-     - Security: OWASP Standards, Auth avanzata
-   - Features:
-     - Sistema di autenticazione multi-livello
-     - Real-time messaging system
-     - Payment gateway integration
-     - Admin dashboard
-   - [Repository](https://github.com/amitpandher03/presto.it)
-
-3. **🐦 Flappy Bird Clone**
-   - Game Development in JavaScript puro
-   - Tecnologie:
-     - Canvas HTML5
-     - Modern JavaScript (ES6+)
-     - Responsive Design
-   - Features:
-     - Physics engine custom
-     - High score system
-     - Mobile-friendly controls
-   - [Repository](https://github.com/amitpandher03/Flappy-bird)
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🎮 Pokemon in React</h3>
+        <p>SPA React con integrazione API RESTful</p>
+        <a href="https://github.com/amitpandher03/pokemon-in-react">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitpandher03&repo=pokemon-in-react&theme=radical" />
+        </a>
+      </td>
+      <td align="center">
+        <h3>🛍️ Presto.it</h3>
+        <p>Full Stack E-commerce con focus su sicurezza</p>
+        <a href="https://github.com/amitpandher03/presto.it">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=amitpandher03&repo=presto.it&theme=radical" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🔐 Competenze Security
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amitpandher03&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpandher03&theme=radical" alt="GitHub Streak" />
+</div>
 
-- **OWASP Security Implementation**
-  - Vulnerability Assessment & Penetration Testing
-  - Security Headers Configuration
-  - XSS & CSRF Protection
-  - SQL Injection Prevention
-  
-- **Authentication & Authorization**
-  - JWT Implementation
-  - OAuth 2.0 & OpenID Connect
-  - Role-Based Access Control (RBAC)
-  
-- **Data Protection**
-  - GDPR Compliance
-  - Encryption at Rest & in Transit
-  - Secure Session Management
-  - API Security Best Practices
-
-### 🎨 UI/UX Expertise
-
-- **Design Thinking**
-  - User Research & Analysis
-  - Personas Development
-  - Journey Mapping
-  
-- **Interface Design**
-  - Wireframing & Prototyping
-  - Design Systems Creation
-  - Responsive Design
-  - Micro-interactions
-  
-- **Accessibility**
-  - WCAG 2.1 Guidelines
-  - Screen Reader Optimization
-  - Keyboard Navigation
-  - Color Contrast Compliance
-
----
 
 <div align="center">
   
 💡 Aperto a nuove opportunità e collaborazioni! Contattatemi per progetti innovativi o per una chiacchierata su code, security o design.
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2196F3&height=100&section=footer" />
 </div>
