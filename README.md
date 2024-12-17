@@ -72,10 +72,6 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitpandher03&theme=radical" alt="GitHub Streak" />
-</div>
-
 
 <div align="center">
   
