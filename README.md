@@ -8,8 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Specialist;UI%2FUX+Designer;Clean+Code+Enthusiast" alt="Typing SVG" />
   
   <p>
-    <a href="https://linkedin.com/in/amitpandher"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://github.com/amitpandher03"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/amit-pandher-junior-dev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.github.com/amitpandher03"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
     <a href="pandheramit245@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   </p>
 </div>
